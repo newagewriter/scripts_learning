@@ -1,1 +1,1 @@
-# scripts_learning
+# Templates Scripts Repository
